@@ -136,3 +136,4 @@ D:\POST\DEVELOPMENT\CSharp\HoosainTachnologyLabs\LoginAndSignupApp\API\bin\Debug
 D:\POST\DEVELOPMENT\CSharp\HoosainTachnologyLabs\LoginAndSignupApp\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\POST\DEVELOPMENT\CSharp\HoosainTachnologyLabs\LoginAndSignupApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 D:\POST\DEVELOPMENT\CSharp\HoosainTachnologyLabs\LoginAndSignupApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\POST\DEVELOPMENT\CSharp\HoosainTachnologyLabs\LoginAndSignupApp\API\bin\Debug\net8.0\Data\UserSeedData.json
