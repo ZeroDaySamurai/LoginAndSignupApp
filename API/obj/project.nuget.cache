@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vVcGZ6JUktRE8O74Yx875YKld0fUi6S5VEd5fyF4UA2Nq1G52SYi12FJrZr8q9EZrdQ/iFjj4+xTQV7RABHrrg==",
+  "dgSpecHash": "ypfRr8TwdwKpkqiFcMz+fhek6F3Pwh7tXFICAjtRd9kCEa/OsdYbBsLVSASXCweR7Fr+b4cYNx61yTPiH0wUXQ==",
   "success": true,
   "projectFilePath": "D:\\POST\\DEVELOPMENT\\CSharp\\HoosainTachnologyLabs\\LoginAndSignupApp\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shake\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\shake\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\shake\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.7\\microsoft.aspnetcore.authentication.jwtbearer.8.0.7.nupkg.sha512",
     "C:\\Users\\shake\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
