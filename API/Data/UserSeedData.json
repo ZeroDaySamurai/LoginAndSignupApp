@@ -1,0 +1,152 @@
+[
+    {
+        "Fullname": "Georgina Phillips",
+        "Gender": "female",
+        "DateOfBirth": "1956-04-29",
+        "UserName": "Georgina Phillips",
+        "Email": "georginaphillips@ecstasia.com",
+        "Created": "2019-03-24",
+        "LastActive": "2020-06-22",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/27.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Fullname": "Angelique Craft",
+        "Gender": "female",
+        "DateOfBirth": "1966-06-19",
+        "UserName": "Angelique Craft",
+        "Email": "angeliquecraft@ecstasia.com",
+        "Created": "2019-11-16",
+        "LastActive": "2020-06-04",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/52.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Fullname": "Janie Willis",
+        "Gender": "female",
+        "DateOfBirth": "1951-03-03",
+        "UserName": "Janie Willis",
+        "Email": "janiewillis@ecstasia.com",
+        "Created": "2020-04-19",
+        "LastActive": "2020-05-31",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/10.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Fullname": "Tamra Gonzales",
+        "Gender": "female",
+        "DateOfBirth": "1951-06-15",
+        "UserName": "Tamra Gonzales",
+        "Email": "tamragonzales@ecstasia.com",
+        "Created": "2019-06-29",
+        "LastActive": "2020-06-04",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/75.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Fullname": "Vanessa Kinney",
+        "Gender": "female",
+        "DateOfBirth": "1951-07-22",
+        "UserName": "Vanessa Kinney",
+        "Email": "vanessakinney@ecstasia.com",
+        "Created": "2019-12-18",
+        "LastActive": "2020-05-10",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/33.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Fullname": "Olsen Fleming",
+        "Gender": "male",
+        "DateOfBirth": "1992-03-21",
+        "UserName": "Olsen Fleming",
+        "Email": "olsenfleming@ecstasia.com",
+        "Created": "2019-01-07",
+        "LastActive": "2020-06-12",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/men/10.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Fullname": "Golden Salas",
+        "Gender": "male",
+        "DateOfBirth": "1993-09-16",
+        "UserName": "Golden Salas",
+        "Email": "goldensalas@ecstasia.com",
+        "Created": "2020-03-30",
+        "LastActive": "2020-05-21",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/men/68.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Fullname": "Goodman Rodriquez",
+        "Gender": "male",
+        "DateOfBirth": "1971-11-20",
+        "UserName": "Goodman Rodriquez",
+        "Email": "goodmanrodriquez@ecstasia.com",
+        "Created": "2019-05-24",
+        "LastActive": "2020-05-03",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/men/6.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Fullname": "Cline Burks",
+        "Gender": "male",
+        "DateOfBirth": "1979-12-01",
+        "UserName": "Cline Burks",
+        "Email": "clineburks@ecstasia.com",
+        "Created": "2020-05-23",
+        "LastActive": "2020-06-15",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/men/21.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "Fullname": "Peterson Mcfadden",
+        "Gender": "male",
+        "DateOfBirth": "1964-10-02",
+        "UserName": "Peterson Mcfadden",
+        "Email": "petersonmcfadden@ecstasia.com",
+        "Created": "2019-10-07",
+        "LastActive": "2020-05-09",
+        "Photos": [
+            {
+                "Url": "https://randomuser.me/api/portraits/men/67.jpg",
+                "IsMain": true
+            }
+        ]
+    }
+]
