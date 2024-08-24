@@ -1,0 +1,11 @@
+Authentication App Planning
+---------------------------
+
+Components
+1. Nav Component
+2. Home Component
+3. Sign-up Component
+4. Login Component
+5. Diagrams Component
+6. About Component
+7. Footer Component
