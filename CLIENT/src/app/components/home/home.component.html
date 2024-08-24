@@ -1,0 +1,28 @@
+<div class="container mt-5">
+    <div style="text-align: center;">
+
+        @if(!registerMode)
+        {
+            <h1>Home Page</h1>
+            <p class="lead">
+                Login into your account or create a new account.
+            </p>
+            <div class="text-center">
+                <button (click)="registerToggle()" class="btn btn-primary btn-lg me-2">Register</button>
+                <button class="btn btn-primary btn-lg me-2">More Info</button>
+            </div>
+        }
+        @else 
+        {
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-4">
+                        <app-register
+                            (cancelRegister)="cancelMode($event)"
+                        ></app-register>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

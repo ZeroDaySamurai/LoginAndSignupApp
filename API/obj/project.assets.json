@@ -3356,11 +3356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\POST\\DEVELOPMENT\\CSharp\\HoosainTachnologyLabs\\LoginAndSignupApp\\API\\API.csproj",
+      "projectUniqueName": "D:\\POST\\DEVELOPMENT\\CSharp\\HoosainTachnologyLabs\\LoginAndSignupApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "d:\\POST\\DEVELOPMENT\\CSharp\\HoosainTachnologyLabs\\LoginAndSignupApp\\API\\API.csproj",
+      "projectPath": "D:\\POST\\DEVELOPMENT\\CSharp\\HoosainTachnologyLabs\\LoginAndSignupApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\shake\\.nuget\\packages\\",
-      "outputPath": "d:\\POST\\DEVELOPMENT\\CSharp\\HoosainTachnologyLabs\\LoginAndSignupApp\\API\\obj\\",
+      "outputPath": "D:\\POST\\DEVELOPMENT\\CSharp\\HoosainTachnologyLabs\\LoginAndSignupApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shake\\AppData\\Roaming\\NuGet\\NuGet.Config",
